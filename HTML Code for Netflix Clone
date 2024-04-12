@@ -154,27 +154,27 @@
         </div>
         <div class="footer-columns">
             <div class="footer-column">
-                <a href="#" target="_main">FAQ</a>
-                <a href="#" target="_main">Investor Relations</a>
-                <a href="#" target="_main">Privacy</a>
-                <a href="#" target="_main">Speed Test</a>
+                <a href="#" >FAQ</a>
+                <a href="#" >Investor Relations</a>
+                <a href="#">Privacy</a>
+                <a href="#" >Speed Test</a>
             </div>
             <div class="footer-column">
-                <a href="#" target="_main">Help Centre</a>
-                <a href="#" target="_main">Jobs</a>
-                <a href="#" target="_main">Cookie Preferences</a>
-                <a href="#" target="_main">Legal Notices</a>
+                <a href="#" >Help Centre</a>
+                <a href="#" >Jobs</a>
+                <a href="#" >Cookie Preferences</a>
+                <a href="#" >Legal Notices</a>
             </div>
             <div class="footer-column">
-                <a href="#" target="_main">Account</a>
-                <a href="#" target="_main">Ways To Watch</a>
-                <a href="#" target="_main">Corporate Information</a>
-                <a href="#" target="_main">Only On Netflix</a>
+                <a href="#" >Account</a>
+                <a href="#" >Ways To Watch</a>
+                <a href="#" >Corporate Information</a>
+                <a href="#" >Only On Netflix</a>
             </div>
             <div class="footer-column">
-                <a href="#" target="_main">Media Centre</a>
-                <a href="#" target="_main">Terms Of Use</a>
-                <a href="#" target="_main">Contact Us</a>
+                <a href="#" >Media Centre</a>
+                <a href="#" >Terms Of Use</a>
+                <a href="#" >Contact Us</a>
             </div>
         </div><br><br><br>
         <div class="footer-columns">Netflix-India </div>
